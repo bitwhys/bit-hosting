@@ -4,6 +4,7 @@
   "description": "fake hosting company",
   "version": "4.0.0",
   "author": "George Bockari <bitwhys@bitcreative.studio>",
+  "repository": "git@github.com:bitwhys/bit-hosting.git",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
